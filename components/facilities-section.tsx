@@ -21,7 +21,9 @@ export function FacilitiesSection() {
             大型雙會所 · 度假式享受
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-foreground/80">
-            全新登場的雙會所「Club Reserve」，網羅逾 45 項渡假級悠閒配套 —— 由室內外泳池、向海健身室、主題派對房，到小朋友專屬遊樂區及私人宴會空間，一應俱全。
+            全新登場的雙會所，網羅逾 45 項渡假級悠閒配套
+            <br />
+            由室內外泳池、向海健身室、主題派對房，到小朋友專屬遊樂區及私人宴會空間，一應俱全。
           </p>
         </div>
 
