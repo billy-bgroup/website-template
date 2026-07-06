@@ -1,12 +1,12 @@
 import { ContactCta } from '@/components/contact-cta'
 
 const facilities = [
-  { image: '/images/clubhouse.jpg', title: '會所休憩區', desc: '星空天幕主題休閒空間' },
-  { image: '/images/pool.jpg', title: '室外游泳池', desc: '臨海景觀泳池' },
-  { image: '/images/gym.jpg', title: '天際健身室', desc: '面海專業級健身設備' },
-  { image: '/images/garden.jpg', title: '兒童戲水樂園', desc: '兒童專屬遊樂王國' },
-  { image: '/images/basketball.jpg', title: '室內籃球場', desc: '全天候運動空間' },
-  { image: '/images/kids.jpg', title: '兒童遊戲室', desc: 'STEM 主題室內遊樂室' },
+  { image: '/images/clubhouse.jpg', title: '會所大堂', desc: '以星幕天花為題的優雅聚腳點' },
+  { image: '/images/pool.jpg', title: '露天泳池', desc: '一邊暢泳一邊飽覽海岸線' },
+  { image: '/images/gym.jpg', title: '海景健身室', desc: '配備專業器械的向海空間' },
+  { image: '/images/garden.jpg', title: '兒童玩水區', desc: '為小朋友而設的戲水天地' },
+  { image: '/images/basketball.jpg', title: '室內籃球場', desc: '不受天氣影響的運動場地' },
+  { image: '/images/kids.jpg', title: '兒童遊戲室', desc: '融入 STEM 元素的室內樂園' },
 ]
 
 export function FacilitiesSection() {
@@ -18,11 +18,12 @@ export function FacilitiesSection() {
             CLUB RESERVE
           </p>
           <h2 className="mt-3 font-serif text-2xl font-semibold text-primary md:text-4xl">
-            頂級大型豪華雙會所
+            大型雙會所 · 度假式享受
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-foreground/80">
-            住戶可享用全新打造的頂級大型豪華雙會所「Club Reserve」，內設超過 45 項高端 resort
-            級渡假休閒設施，包括室內外游泳池、天際健身室、主題派對室、兒童專屬遊樂王國及私人宴會廳等。
+            全新登場的雙會所，網羅逾 45 項渡假級悠閒配套
+            <br />
+            由室內外泳池、向海健身室、主題派對房，到小朋友專屬遊樂區及私人宴會空間，一應俱全。
           </p>
         </div>
 

@@ -8,10 +8,10 @@ const phases = [
     image: '/images/terrace.jpg',
     blocks: '第 3 座及第 5 座',
     area: '182 – 767 方呎',
-    type: '開放式至 3 房戶型',
+    type: '開放式至三房間隔',
     points: [
-      '整體規劃靈活，入場費更為親民',
-      '特別迎合年輕上車族與專業人士',
+      '間隔選擇多元，入場銀碼相對輕鬆',
+      '尤其切合首次置業人士及在職專才',
     ],
   },
   {
@@ -21,10 +21,10 @@ const phases = [
     image: '/images/garden.jpg',
     blocks: '第 1 座及第 2 座',
     area: '269 – 1,329 方呎',
-    type: '開放式至 4 房及天台特色戶',
+    type: '開放式至四房連天台特色戶',
     points: [
-      '定位更具豪宅規格，第一線無遮擋大平面海景戶',
-      '主力吸引換樓家庭與追求奢華空間的實力買家',
+      '規格更貼近豪宅，設前排零遮擋闊面海景大宅',
+      '瞄準改善居住空間的家庭及預算充裕的買家',
     ],
   },
 ]
@@ -38,10 +38,10 @@ export function PhaseComparison() {
             THE UPPLAND · THE RESERVE
           </p>
           <h2 className="mt-3 font-serif text-2xl font-semibold text-primary md:text-4xl">
-            一期與二期之核心差異
+            兩期定位大比拼
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-foreground/80">
-            整個發展項目共分為兩期現樓推售，滿足不同買家的置業需要。
+            項目分兩期先後登場，各具個性，讓不同需要的買家都能找到合適的家。
           </p>
         </div>
 
