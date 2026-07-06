@@ -18,7 +18,7 @@ const pros = [
 
 const notes = [
   {
-    title: '出行方式',
+    title: '交通方便',
     body: '屋苑並非鄰近港鐵，日常主要靠青山公路一帶的巴士小巴接駁至荃灣或屯門市中心；習慣以鐵路通勤的買家宜先計算好車程。',
   },
   {
@@ -36,7 +36,7 @@ export function EditorReview() {
             EDITOR&apos;S REVIEW
           </p>
           <h2 className="mt-3 text-balance font-serif text-2xl font-semibold text-foreground md:text-4xl">
-            小編話你知：黃金海灣值博率有幾高？
+            小編話你知：黃金海灣值得購買率有幾高？
           </h2>
           <p className="mx-auto mt-4 max-w-3xl text-pretty leading-relaxed text-muted-foreground">
             黃金海灣走的是「中高檔海景渡假社區」路線，雖非傳統半山豪宅，但勝在定價實惠、坐擁一線海景，加上大型會所加持，近期在新盤市場相當受注目。以下就由小編替你拆解入市要點：
@@ -64,7 +64,7 @@ export function EditorReview() {
           <div className="rounded-xl border border-border bg-card p-6 md:p-8">
             <div className="flex items-center gap-2 text-destructive">
               <AlertCircle className="size-5" />
-              <h3 className="font-serif text-lg font-semibold">買家注意事項</h3>
+              <h3 className="font-serif text-lg font-semibold">注意事項</h3>
             </div>
             <ul className="mt-5 space-y-4">
               {notes.map((item) => (
@@ -91,13 +91,13 @@ export function EditorReview() {
               <span className="font-medium text-foreground">
                 首置上車或收租為主：
               </span>
-              可留意第 1 期「意嵐」（The Uppland）。以中小型單位為主，入場銀碼較低，近期成交暢旺，實用呎價大約介乎 $1.2 萬至 $1.4 萬餘，租務表現亦算穩健。
+              可留意第 1 期「意嵐」。以中小型單位為主，入場銀碼較低，近期成交暢旺，實用呎價大約介乎 $1.2 萬至 $1.4 萬餘，租務表現亦算穩健。
             </p>
             <p>
               <span className="font-medium text-foreground">
                 換樓自住或追求質素：
               </span>
-              則不妨聚焦第 2 期「珀岸」（The Reserve）。坐向更理想，備有大平層及特色戶，無遮擋的闊面海景更見豪宅氣派，適合預算相對充裕的買家。
+              則不妨聚焦第 2 期「珀岸」。坐向更理想，備有大平層及特色戶，無遮擋的闊面海景更見豪宅氣派，適合預算相對充裕的買家。
             </p>
           </div>
         </div>
