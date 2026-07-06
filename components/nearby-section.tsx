@@ -31,23 +31,6 @@ export function NearbySection() {
                 School），為子女的成長路鋪墊優質的國際化學習環境。
               </p>
             </div>
-            <div>
-              <h3 className="font-serif text-xl font-semibold text-primary">
-                黃金泳灘 · 海濱漫步
-              </h3>
-              <p className="mt-2 text-base leading-relaxed text-foreground/80">
-                由屋苑起步，約 2
-                分鐘便可踏足黃金泳灘與海岸長廊，把海風與陽光化作每天的生活節奏。
-              </p>
-            </div>
-            <div>
-              <h3 className="font-serif text-xl font-semibold text-primary">
-                交通便捷 · 基座商場貼身
-              </h3>
-              <p className="mt-2 text-base leading-relaxed text-foreground/80">
-                屋苑設有基座商場，飲食購物近在咫尺；門外亦有多線巴士與小巴，輕鬆往返荃灣、旺角、機場以至大灣區各大口岸。
-              </p>
-            </div>
           </div>
         </div>
 

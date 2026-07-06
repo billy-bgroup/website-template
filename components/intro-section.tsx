@@ -30,13 +30,13 @@ export function IntroSection() {
 
         <div className="mx-auto mt-10 max-w-3xl space-y-5 text-center text-base leading-relaxed text-foreground/85 md:text-lg">
           <p>
-            <span className="font-semibold text-primary">黃金海灣（Gold Coast Bay）</span>
-            座落屯門掃管笏青山公路青山灣段 18
+            <span className="font-semibold text-primary">住宅位置落在黃金海灣</span>
+            實際地址是屯門掃管笏青山公路青山灣段 18
             號，屬全新一手臨海大型住宅社區。屋苑貼近黃金泳灘而建，讓住戶足不出區便能投入寫意的海濱渡假日常。
           </p>
           <p>
-            發展分為兩期、由多幢大廈相連而成，兩期合共供應 1,323
-            伙。整體樓宇坐向經悉心規劃，當中約九成單位均能將青山灣的開揚海景盡收眼底。
+            發展商分為兩期、由多幢大廈相連而成，兩期合共供應 1,323
+            伙。約九成單位均能將青山灣的開揚海景盡收眼底。
           </p>
         </div>
 
