@@ -17,7 +17,7 @@ const notoSerif = Noto_Serif_TC({
 export const metadata: Metadata = {
   title: '黃金海灣 Gold Coast Bay｜屯門掃管笏海濱新盤．意嵐 The Uppland、珀岸 The Reserve',
   description:
-    '黃金海灣（Gold Coast Bay）落戶屯門掃管笏青山公路青山灣段 18 號，分意嵐、珀岸兩期共 1,323 伙，約九成單位望向青山灣海景，約 2 分鐘步程直達黃金泳灘，鄰近哈羅香港國際學校，並設逾 45 項雙會所設施。歡迎預留名額參觀示範單位，網上索取價單及平面圖。',
+    '黃金海灣，英文名是Gold Coast Bay，落戶屯門掃管笏青山公路青山灣段 18 號，分意嵐、珀岸兩期共 1,323 伙，約九成單位望向青山灣海景，約 2 分鐘步程直達黃金泳灘，鄰近哈羅香港國際學校，並設逾 45 項雙會所設施。',
   generator: 'v0.app',
   icons: {
     icon: 'https://img.icons8.com/?size=100&id=0T3OMyArQLw9&format=png&color=000000',
