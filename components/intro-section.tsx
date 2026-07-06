@@ -1,10 +1,10 @@
 import { ContactCta } from '@/components/contact-cta'
 
 const stats = [
-  { value: '1,323', label: '住宅單位' },
-  { value: '近 9 成', label: '單位飽覽青山灣海景' },
-  { value: '約 2 分鐘', label: '步行直達黃金泳灘' },
-  { value: '45+', label: '會所豪華休閒設施' },
+  { value: '1,323', label: '兩期合共伙數' },
+  { value: '約 90%', label: '單位坐望青山灣' },
+  { value: '約 2 分鐘', label: '漫步抵達黃金泳灘' },
+  { value: '45 項', label: '雙會所悠閒配套' },
 ]
 
 export function IntroSection() {
@@ -31,10 +31,12 @@ export function IntroSection() {
         <div className="mx-auto mt-10 max-w-3xl space-y-5 text-center text-base leading-relaxed text-foreground/85 md:text-lg">
           <p>
             <span className="font-semibold text-primary">黃金海灣（Gold Coast Bay）</span>
-            是位於香港屯門掃管笏青山公路青山灣段18號的全新一手臨海旗艦住宅屋苑。項目主打極速親臨黃金泳灘，為住戶開啟優雅的臨海渡假生活模式。
+            座落屯門掃管笏青山公路青山灣段 18
+            號，屬全新一手臨海大型住宅社區。屋苑貼近黃金泳灘而建，讓住戶足不出區便能投入寫意的海濱渡假日常。
           </p>
           <p>
-            全盤由多幢住宅大廈相連組成（劃分為兩期發展，共提供 1,323 個住宅單位）。項目坐向優越，高達近九成單位可飽覽青山灣遼闊無敵海景。
+            發展分為兩期、由多幢大廈相連而成，兩期合共供應 1,323
+            伙。整體樓宇坐向經悉心規劃，當中約九成單位均能將青山灣的開揚海景盡收眼底。
           </p>
         </div>
 

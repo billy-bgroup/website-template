@@ -8,14 +8,14 @@ export function PriorityRegistration() {
           PRIORITY REGISTRATION
         </p>
         <h2 className="font-serif text-2xl font-semibold text-black md:text-4xl">
-          優先登記參觀示範單位
+          率先預約 · 親臨示範單位
         </h2>
         <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-neutral-700 md:text-lg">
-          當示範單位開放參觀後，銷售部會優先安排已登記人士參觀示範單位。
+          示範單位正式開放後，我們會按登記次序，優先為已預留名額的客戶安排參觀時段。
         </p>
 
         <div className="mx-auto mt-8 grid max-w-3xl gap-4 sm:grid-cols-3">
-          {['搶先體驗豪華示範單位', '優先登記參觀示範單位', '線上索取價單及平面圖'].map(
+          {['率先賞遊豪裝示範單位', '預留優先參觀名額', '網上獲取價單與平面圖'].map(
             (text) => (
               <div
                 key={text}
@@ -28,7 +28,7 @@ export function PriorityRegistration() {
         </div>
 
         <div className="mt-9">
-          <ContactCta label="立即登記 · 聯絡銷售部" />
+          <ContactCta label="即時預留名額 · 聯絡銷售部" />
         </div>
       </div>
     </section>

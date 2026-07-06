@@ -9,7 +9,7 @@ export function NearbySection() {
             LOCATION &amp; LIFESTYLE
           </p>
           <h2 className="mt-3 font-serif text-2xl font-semibold text-primary md:text-4xl">
-            國際化優質生活與教育圈
+            海岸生活圈 · 教育與便利兼備
           </h2>
         </div>
 
@@ -24,27 +24,28 @@ export function NearbySection() {
           <div className="space-y-6">
             <div>
               <h3 className="font-serif text-xl font-semibold text-primary">
-                名校環抱 · 教育首選
+                名校在側 · 育兒無憂
               </h3>
               <p className="mt-2 text-base leading-relaxed text-foreground/80">
-                周邊毗鄰著名學府哈羅香港國際學校（Harrow International
-                School），建構國際化的優質生活與教育圈。
+                咫尺之遙即為國際知名的哈羅香港國際學校（Harrow International
+                School），為子女的成長路鋪墊優質的國際化學習環境。
               </p>
             </div>
             <div>
               <h3 className="font-serif text-xl font-semibold text-primary">
-                黃金泳灘 · 海濱長廊
+                黃金泳灘 · 海濱漫步
               </h3>
               <p className="mt-2 text-base leading-relaxed text-foreground/80">
-                步行約 2 分鐘即直達著名的黃金泳灘沙灘及黃金海岸海濱長廊，盡享臨海渡假式生活。
+                由屋苑起步，約 2
+                分鐘便可踏足黃金泳灘與海岸長廊，把海風與陽光化作每天的生活節奏。
               </p>
             </div>
             <div>
               <h3 className="font-serif text-xl font-semibold text-primary">
-                交通四通八達 · 生活基座商場
+                交通便捷 · 基座商場貼身
               </h3>
               <p className="mt-2 text-base leading-relaxed text-foreground/80">
-                項目自設生活基座商場，日常餐飲購物一步到位；門前即設有多條巴士及小巴路線，快速連接荃灣、旺角、機場及大灣區各主要口岸。
+                屋苑設有基座商場，飲食購物近在咫尺；門外亦有多線巴士與小巴，輕鬆往返荃灣、旺角、機場以至大灣區各大口岸。
               </p>
             </div>
           </div>
